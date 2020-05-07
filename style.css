@@ -1,0 +1,897 @@
+
+body{
+    text-align: center;
+    
+}
+
+
+
+   
+#Header{
+      
+        width: 100%;
+        height: 110px;        
+}
+#Topbar{
+   
+    background-color:#316dc3;
+    height: 50px;
+}
+.Topbar-items{
+    width: 80%;
+    display: inline-block;
+  
+    height: 45px;
+   
+   
+    
+}
+
+.socialicons{
+   
+    width:300px;
+    height: 40px;
+    float: left;
+   
+   
+    
+}
+
+
+
+.socialicons img{
+    height: 30px;
+    width:30px;
+  border-radius: 10px;
+  
+   
+}
+
+
+.statement{
+  
+    width:490px;
+    height: 20px;
+    float: left;
+    margin:15px 10px 10px 60px;
+    color:white;
+}
+
+
+.buttons{
+   
+    width:300px;
+    height: 30px;
+    float: left;
+    margin:10px 10px 10px 70px;
+
+
+    
+}
+.buttons button{
+    border:1px solid green;
+    color:green;
+    padding:5px;
+
+}
+
+
+
+.buttons button a{
+    text-decoration: none;
+    color:green;
+}
+#Menu{
+  
+    background-color:#f7f8fa;
+    height: 60px;
+    
+}
+.Menu-items{
+    width: 80%;
+    display: inline-block;
+   
+    height: 55px;
+    margin: 5px auto;
+}
+
+.logo {
+   
+    width:200px;
+    height:50px;
+    margin-left: 50px;
+    float: left;
+}
+
+.logo img{
+    width:190px;
+    height:52px;
+}
+
+.dropdown{
+    float: right;
+    width: 670px;
+    height: 50px;
+   
+    margin-right: 100px;
+}
+.dropdown ul{
+    list-style-type: none;
+    margin: 5px;
+    padding: 10px;
+   
+    
+  }
+  
+.dropdown li{
+    display: inline;
+     
+  
+  
+
+   
+    
+  }
+  
+.dropdown li a{
+    text-decoration: none;
+    padding:10px;
+    color: black;
+}
+  
+.dropdown li a:hover{
+    background-color: #316DC3;
+    border-radius: 20px;
+    color:#fff;
+}
+
+#Slider{
+   
+    width: 100%;
+    height: 550px;        
+}
+img{
+    width: 100%;
+    height: 500px;
+}
+.text{
+    display: inline-block;
+   width: 80%;
+    background-color:#316dc3;
+    height:30px;
+    margin:5px;
+    
+
+}
+
+.text p{
+    color:white;
+    margin: 5px;
+}
+
+.text strong{
+    color:#11CA47;
+}
+
+.text  a{
+    text-decoration:none ;
+    color: #152EE5;
+}
+
+
+
+
+
+
+
+#Introduction{
+   
+    background-color: #F7F8FA;
+    width: 100%;
+    height: 700px;        
+}
+
+.intro{
+    width: 60%;
+    display: inline-block;
+   
+    height:600px;
+    margin:50px;
+}
+
+.heading{
+   
+    height:100px;
+    width:400px;
+    display:block;
+   margin:auto;
+   margin-top: 5px;
+   margin-bottom: 5px;
+}
+
+.heading h2{
+    color:#316DC3;
+    margin:0px;
+    font-size: 36px;
+
+}
+.duction{
+    color:green;
+}
+
+.heading img{
+    
+    width:40px;
+    height:40px;
+    text-align: center;
+}
+
+
+.paragraph{
+    
+    width:900px;
+    height:450px;
+    margin:10px;
+}
+
+.paragraph p{
+    display: block;
+    line-height: 1.8;
+    font-family: 'Open Sans', sans-serif;
+    font-size:14px;
+    color:grey;
+    text-align:left ;
+}
+
+
+#Serving{
+   
+    background-color:#2655E8;
+    width: 100%;
+    height: 300px;        
+}
+.Serving-items{
+    width: 80%;
+    display: inline-block;
+   
+    height:280px;
+   
+
+   
+    
+}
+
+.Serving-items img{
+    width: 40px;
+    height: 40px;
+    display: block;
+    margin-left:130px;
+    margin-top: 60px;
+    
+}
+
+.Serving-items h1{
+    color:#FFFFFF;
+}
+
+.Serving-items h4{
+    color:#FFFFFF;
+}
+
+
+.Monthly{
+    color:#00FF00;
+}
+
+.item1{
+    width: 300px;
+    
+    height:260px;
+    
+    display: inline-block;
+    overflow: hidden;
+}
+
+.item2{
+    width: 300px;
+
+    height:260px;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.item3{
+    width: 300px;
+     
+    height:260px;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.item4{
+    width: 300px;
+    
+    height:260px;
+    overflow: hidden;
+    display: inline-block;
+}
+
+
+
+
+
+
+#Services{
+   
+    background-color:#F7F8FA;
+    width: 100%;
+    height: 650px;        
+}
+.Services-items{
+    width: 80%;
+    display: inline-block;
+   
+    height:600px;
+    margin:25px;
+    
+}
+
+
+
+
+.whatweare{
+    
+    height:100px;
+    width:420px;
+    display:block;
+   margin:auto;
+   margin-top: 30px;
+   margin-bottom: 20px;
+   
+
+}
+
+.whatweare h2{
+    color:#316DC3;
+    margin:0px;
+    font-size: 36px;
+
+}
+.Aredoing{
+    color:green;
+}
+
+.whatweare img{
+    width:40px;
+    height:40px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+
+
+
+
+
+.boxes img{
+    width: 70px;
+    height: 70px;
+    display: block;
+    margin-left:160px;
+    margin-top: 30px;
+}
+
+
+
+
+.boxes h4{
+   color:  #316DC3;
+}
+
+
+
+
+.Sadqah{
+    
+    height:200px;
+    width:400px;
+    display: inline-block;
+    overflow: hidden;
+    background-color:#FFFFFF;
+    margin:5px;
+    
+    
+
+}
+
+
+
+
+.Welfare{
+   
+    height:200px;
+    width:400px;
+    display: inline-block;
+    overflow: hidden;
+    margin:5px;
+    background-color: #FFFFFF;
+    
+}
+
+.Medical{
+   
+    height:200px;
+    width:400px;
+    display: inline-block;
+    overflow: hidden;
+    margin:5px;
+    background-color: #FFFFFF;
+    
+}
+
+
+.Dastarkhwan{
+   
+    height:200px;
+    width:400px;
+    display: inline-block;
+    overflow: hidden;
+    margin:5px;
+    background-color: #FFFFFF;
+   
+}
+
+.Roplant{
+  
+    height:200px;
+    width:400px;
+    display: inline-block;
+    overflow: hidden;
+    margin:5px;
+    background-color:#FFFFFF;
+    
+
+}
+
+
+
+
+.Education{
+   
+    height:200px;
+    width:400px;
+    display: inline-block;
+    overflow: hidden;
+    margin:5px;
+    background-color:#FFFFFF;
+    
+}
+
+
+
+#Doing{
+  
+    background-color: #FFFFFF;
+    width: 100%;
+    height: 650px;        
+}
+
+.doing-items{
+    width: 80%;
+    display: inline-block;
+   
+    height:400px;
+    margin:25px;
+    
+
+}
+
+
+
+
+.Mispro{
+    width: 800px;
+    display: inline-block;
+   
+    height:350px;
+    margin:20px;
+    float: left;
+    
+
+}
+
+.Heading{
+   
+    width: 500px;
+    height:45px;
+    margin-left: 20px;
+}
+.Heading h2{
+    text-align: left;
+    color:#316DC3;
+    margin:10px;
+}
+
+.Mispro-items{
+    width:780px;
+    height: 300px;
+   
+    
+}
+
+.Mispro img{
+    float: left;
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+
+}
+.Mispro h4{
+    color:#316DC3;
+   
+    text-align: left;
+} 
+
+
+
+
+.Hepatitis{
+    width:360px;
+    height: 90px;
+  
+    display: inline-block;
+    margin:10px;
+    background-color: #F7F8FA;
+}
+
+
+
+.Housing{
+    width:360px;
+    height: 90px;
+   
+    display: inline-block;
+    margin:10px;
+    background-color: #F7F8FA;
+
+}
+
+.IT{
+    width:360px;
+    height: 90px;
+    
+    display: inline-block;
+    margin:10px;
+    background-color: #F7F8FA;
+}
+
+.Tharparkar{
+    width:360px;
+    height: 90px;
+   
+    display: inline-block;
+    margin:10px;
+    background-color:#F7F8FA ;
+
+}
+
+
+
+
+
+
+.Events{
+    width: 350px;
+    display: inline-block;
+   
+    height:350px;
+    margin: 20px;
+  
+    
+}
+
+
+.UpcomingEvents{
+  
+    width: 350px;
+    height:45px;
+   
+}
+
+.UpcomingEvents h2{
+    text-align: left;
+    color:#316DC3;
+    margin:10px;
+    
+}
+
+.Events p{
+    display: block;
+    line-height: 1.8;
+     font-family: 'Open Sans', sans-serif;
+     font-size:14px;
+     color:grey;
+}
+
+.Events p a{
+    text-decoration:none ;
+    color: #152EE5;
+}
+
+
+
+
+#Gallery{
+  z
+    background-color:#FFFFFF;
+    width: 100%;
+    height: 450px;        
+}
+
+
+
+
+
+
+
+
+
+.Gallery-items{
+    width: 80%;
+    display: inline-block;
+    
+    height:400px;
+    margin:25px;
+}
+.ImgGallery{
+  
+    height:100px;
+    width:400px;
+    display:block;
+   margin:auto;
+   margin-top: 25px;
+   margin-bottom: 25px;
+   
+
+}
+.ImgGallery h2{
+    color:#316DC3;
+    margin:0px;
+    font-size: 36px;
+ 
+}
+.gallery{
+    color:green;
+}
+
+.ImgGallery img{
+    width:40px;
+    height:40px;
+    text-align: center;
+    
+}
+
+
+
+.Img1{
+    width:225px;
+    height: 150px;
+    
+    display: inline-block;
+    
+
+}
+.Img1 img{
+    width:225px;
+    height: 150px;
+}
+.Img2{
+    width:225px;
+    height: 150px;
+     
+    display: inline-block;
+    
+    
+}
+.Img2 img{
+    width:225px;
+    height: 150px;
+}
+.Img3{
+    width:225px;
+    height: 150px;
+    
+    display: inline-block;
+   
+}
+.Img3 img{
+    width:225px;
+    height: 150px;
+}
+.Img4{
+    width:225px;
+    height: 150px;
+     
+    display: inline-block;
+    
+    
+}
+.Img4 img{
+    width:225px;
+    height: 150px;
+}
+.Img5{
+    width:225px;
+    height: 150px;
+      
+    display: inline-block;
+    
+    
+}
+
+.Img5 img{
+    width:225px;
+    height: 150px;
+}
+
+
+
+
+
+
+#Footer{
+  
+    background-color: #25272E;
+  
+    width: 100%;
+    height: 400px;        
+}
+
+
+
+.Footer-items{
+    width: 80%;
+    display: inline-block;
+   
+    height:340px;
+    margin:10px;
+
+}
+
+.Address{
+    width:350px;
+    height:300px;
+    
+    margin:20px;
+    display: inline-block;
+    overflow: hidden;
+    
+}
+
+.Address p{
+    text-align: left;
+    color:white;
+}
+
+
+
+
+
+.Address ul li{
+    list-style-type: none;
+    line-height: 1.8;
+    text-align: left;
+    color:white;
+   
+    
+
+}
+
+
+
+
+
+
+
+.Links{
+    width:350px;
+    height:300px;
+   
+    margin:20px;
+    display: inline-block;
+    overflow: hidden;
+    
+}
+.Links h4{
+    text-align: left;
+    color: white;
+}
+
+
+
+
+
+
+.Connect{
+    width:350px;
+    height:300px;
+   
+    margin:20px;
+    display: inline-block;
+    overflow: hidden;
+    
+}
+
+.Connect h4{
+    color:white;
+    text-align: centre;
+
+}
+
+.fa {
+    padding: 5px;
+    font-size: 30px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    margin:5px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+      border-radius: 5px;
+    background: #3B5998;
+    color: white;
+    border-radius: 5px;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+    border-radius: 5px;
+  }
+  
+ 
+  
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+    border-radius: 5px;
+  }
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+    border-radius: 5px;
+  }
+  
+  
+
+
+ #Footbar{
+  
+   
+    background-color:#316dc3;
+    width: 100%;
+    height: 40px;
+}
+
+.Copyright{
+   margin-left: 200px;
+  float:left ;
+ width:300px;
+ height:30px;
+  
+}
+
+.Copyright p{
+   color: #FFFFFF;
+    font-size: 12px;
+    margin:0px;
+    float: left;
+    margin-top: 10px;
+   
+}
